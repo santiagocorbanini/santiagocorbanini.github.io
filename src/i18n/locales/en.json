@@ -1,0 +1,144 @@
+{
+    "role": "SOFTWARE ENGINEER",
+    "bio1": "Computer Engineer with 10+ years building end-to-end digital products, from modern interfaces to scalable APIs, cloud infrastructure, and production deployments.",
+    "bio2": "Specialized in React and Angular with strong backend experience across microservices, databases, mobile development, and product-oriented architecture.",
+    "nav": {
+      "projects": "Projects",
+      "experience": "Experience",
+      "skills": "Skills",
+      "education": "Education",
+      "languages": "Languages",
+      "contact": "Contact"
+    },
+    "sections": {
+      "projects": "Projects",
+      "experience": "Experience",
+      "skills": "Skills",
+      "education": "Education",
+      "languages": "Languages",
+      "contact": "Contact"
+    },
+    "labels": {
+      "archived": "Archived",
+      "wip": "Work in Progress",
+      "openToWork": "Open to Work",
+      "viewProject": "View Project",
+      "backHome": "← Back"
+    },
+    "experience": [
+      {
+        "role": "Full Stack Engineer",
+        "company": "Un Plan",
+        "location": "Buenos Aires, Argentina",
+        "period": "Jul 2025 — Feb 2026",
+        "desc": [
+          "Designed and developed an end-to-end digital ecosystem from scratch using React 19, Node.js (Express), and PostgreSQL, accelerating MVP launch and supporting complex queries.",
+          "Optimized performance and user experience through React Query, reducing API load and improving perceived response speed by 30%.",
+          "Implemented an admin panel with CRUD, JWT, and Firebase Auth, enabling autonomous content, user, and permission management without technical dependency.",
+          "Automated the CI/CD pipeline with GitHub Actions and deployed on Linux VPS + PM2, ensuring operational stability and high availability."
+        ]
+      },
+      {
+        "role": "Full Stack / Mobile Developer",
+        "company": "Tenvio",
+        "location": "Buenos Aires, Argentina",
+        "period": "Jan 2025 — Dec 2025",
+        "desc": [
+          "Led the development of a cross-platform app (iOS / Android / PWA) using Angular 18 + Ionic + Firebase.",
+          "Implemented real-time Firestore to improve shipment tracking and instant state synchronization.",
+          "Optimized onboarding through Google and Apple Auth, increasing new user registrations by 25%.",
+          "Integrated segmented push notifications to improve retention and operational communication.",
+          "Managed deployments across AWS S3, Google Play, and the App Store."
+        ]
+      },
+      {
+        "role": "Front-End Developer",
+        "company": "Indra",
+        "location": "Barcelona, Spain",
+        "period": "Jan 2024 — Dec 2024",
+        "desc": [
+          "Developed the Innvierte enterprise application focused on corporate investment management.",
+          "Designed and maintained a reusable component library with Angular 17 + Storybook.",
+          "Implemented advanced search and filtering over large data volumes using microfrontends.",
+          "Introduced unit and functional testing with Jest and Jasmine."
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "company": "Indra",
+        "location": "Barcelona, Spain",
+        "period": "Apr 2022 — Dec 2023",
+        "desc": [
+          "Contributed to the development of web and mobile applications for Catalonia Government data management.",
+          "Implemented new views, workflows, and components in Angular 17 and Bootstrap.",
+          "Designed new endpoints and microservices in Spring Boot.",
+          "Collaborated on microfrontend architecture and distributed systems."
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "company": "Podersa S.A.",
+        "location": "Buenos Aires, Argentina",
+        "period": "Feb 2018 — Jun 2020",
+        "desc": [
+          "Contributed to the migration of a legacy system into a modern web architecture.",
+          "Designed APIs and backend services with Spring Boot.",
+          "Implemented a new frontend application using Angular + Materialize."
+        ]
+      },
+      {
+        "role": "QA Automation Engineer",
+        "company": "Grindr",
+        "location": "Los Angeles, USA",
+        "period": "Jan 2016 — Dec 2017",
+        "desc": [
+          "Designed automated tests for mobile applications and backend services.",
+          "Built load and performance tests with Apache JMeter on AWS.",
+          "Automated CI/CD pipelines with Docker and Jenkins.",
+          "Led the QA team in Argentina."
+        ]
+      },
+      {
+        "role": "Full Stack Developer",
+        "company": "Finnegans",
+        "location": "Buenos Aires, Argentina",
+        "period": "Jan 2013 — Apr 2015",
+        "desc": [
+          "Contributed to ERP, CRM, and enterprise software solutions.",
+          "Implemented REST services and backend business logic in Java.",
+          "Optimized SQL queries and application performance.",
+          "Developed frontend features for business modules."
+        ]
+      }
+    ],
+    "skills": [
+      "React",
+      "Angular",
+      "TypeScript",
+      "Spring Boot",
+      "Node.js",
+      "PostgreSQL",
+      "QA Automation",
+      "CI/CD",
+      "AWS",
+      "Figma",
+      "Tailwind CSS"
+    ],
+    "education": [
+      {
+        "degree": "Computer Engineering",
+        "school": "National University of the Northwest of Buenos Aires Province",
+        "year": "2017"
+      },
+      {
+        "degree": "Systems Analyst",
+        "school": "National University of the Northwest of Buenos Aires Province",
+        "year": "2013"
+      }
+    ],
+    "languages": [
+      { "lang": "Spanish", "level": "Native" },
+      { "lang": "English", "level": "Fluent" }
+    ],
+    "footer": "All rights reserved."
+  }

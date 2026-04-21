@@ -1,0 +1,66 @@
+/* =============================================
+   CSS Variables — Tema claro / oscuro
+   ============================================= */
+
+:root {
+  --orange: #0077b6; /* Azul profesional */
+  --font: 'Space Grotesk', sans-serif;
+
+  --bg: #ffffff; /* Blanco puro */
+  --surface: #f8f9fa; /* Gris claro */
+  --text: #212529; /* Gris oscuro */
+  --muted: #6c757d; /* Gris medio */
+  --border: #dee2e6; /* Gris suave */
+  --tag-bg: #e9ecef; /* Fondo de etiquetas */
+  --tag-border: #ced4da; /* Borde de etiquetas */
+}
+
+[data-theme='dark'] {
+  --orange: #00b4d8; /* Azul vibrante */
+  --bg: #121212; /* Negro profundo */
+  --surface: #1e1e1e; /* Gris oscuro */
+  --text: #e9ecef; /* Blanco suave */
+  --muted: #adb5bd; /* Gris medio */
+  --border: #343a40; /* Gris oscuro */
+  --tag-bg: #495057; /* Fondo de etiquetas */
+  --tag-border: #6c757d; /* Borde de etiquetas */
+}
+
+/* =============================================
+   Reset & Base
+   ============================================= */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+  transition: background 0.25s, color 0.25s;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font-family: var(--font);
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}

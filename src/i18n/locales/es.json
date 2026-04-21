@@ -1,0 +1,132 @@
+{
+  "role": "INGENIERO DE SOFTWARE",
+  "bio1": "Ingeniero en Informática con +10 años construyendo productos digitales end-to-end, desde interfaces modernas hasta APIs escalables, cloud y despliegues productivos.",
+  "bio2": "Especializado en React y Angular con sólida experiencia en backend, microservicios, bases de datos, mobile y arquitectura orientada a producto.",
+  "nav": {
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "skills": "Habilidades",
+    "education": "Educación",
+    "languages": "Idiomas",
+    "contact": "Contacto"
+  },
+  "sections": {
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "skills": "Habilidades",
+    "education": "Educación",
+    "languages": "Idiomas",
+    "contact": "Contacto"
+  },
+  "labels": {
+    "archived": "Archivado",
+    "wip": "En progreso",
+    "openToWork": "Disponible",
+    "viewProject": "Ver proyecto",
+    "backHome": "← Volver"
+  },
+"experience": [
+    {
+      "role": "Desarrollador Full Stack Engineer",
+      "company": "Un Plan",
+      "location": "Buenos Aires, Argentina",
+      "period": "Jul 2025 — Feb 2026",
+      "desc": [
+        "Diseñé y desarrollé un ecosistema digital end-to-end desde cero con React 19, Node.js (Express) y PostgreSQL, acelerando el lanzamiento del MVP y soportando consultas complejas.",
+        "Optimicé performance y experiencia de usuario mediante React Query, reduciendo carga sobre APIs y mejorando la velocidad de respuesta percibida en un 30%.",
+        "Implementé un panel administrativo con ABM, JWT y Firebase Auth, permitiendo gestión autónoma de contenido, usuarios y permisos sin dependencia técnica.",
+        "Automaticé el pipeline de CI/CD con GitHub Actions y despliegue sobre Linux VPS + PM2, asegurando estabilidad operativa y alta disponibilidad."
+      ]
+    },
+    {
+      "role": "Desarrollador Full Stack / Mobile",
+      "company": "Tenvio",
+      "location": "Buenos Aires, Argentina",
+      "period": "Ene 2025 — Dic 2025",
+      "desc": [
+        "Lideré el desarrollo de una app multiplataforma (iOS / Android / PWA) utilizando Angular 18 + Ionic + Firebase.",
+        "Implementé Firestore en tiempo real, mejorando seguimiento de envíos y sincronización instantánea de estados.",
+        "Optimicé el onboarding mediante Google y Apple Auth, incrementando en un 25% el registro de nuevos usuarios.",
+        "Integré push notifications segmentadas para mejorar retención y comunicación operativa.",
+        "Gestioné despliegues en AWS S3, Google Play y App Store."
+      ]
+    },
+    {
+      "role": "Desarrollador Front-End",
+      "company": "Indra",
+      "location": "Barcelona, España",
+      "period": "Ene 2024 — Dic 2024",
+      "desc": [
+        "Desarrollé la aplicación empresarial Innvierte orientada a la gestión de inversiones corporativas.",
+        "Diseñé y mantuve una librería de componentes reutilizables con Angular 17 + Storybook.",
+        "Implementé búsquedas y filtros sobre grandes volúmenes de datos usando microfrontends.",
+        "Incorporé testing unitario y funcional con Jest y Jasmine."
+      ]
+    },
+    {
+      "role": "Desarrollador Full Stack",
+      "company": "Indra",
+      "location": "Barcelona, España",
+      "period": "Abr 2022 — Dic 2023",
+      "desc": [
+        "Participé en el desarrollo de aplicaciones web y móviles para la gestión de datos del Gobierno de Cataluña.",
+        "Implementé nuevas vistas, flujos y componentes en Angular 17 y Bootstrap.",
+        "Diseñé nuevos endpoints y microservicios en Spring Boot.",
+        "Colaboré en arquitectura de microfrontends y sistemas distribuidos."
+      ]
+    },
+    {
+      "role": "Desarrollador Full Stack",
+      "company": "Podersa S.A.",
+      "location": "Buenos Aires, Argentina",
+      "period": "Feb 2018 — Jun 2020",
+      "desc": [
+        "Participé en la migración de un sistema legacy hacia arquitectura web moderna.",
+        "Diseñé APIs y servicios backend con Spring Boot.",
+        "Implementé una nueva aplicación frontend en Angular + Materialize."
+      ]
+    },
+    {
+      "role": "QA Automation Engineer",
+      "company": "Grindr",
+      "location": "Los Angeles, USA",
+      "period": "Ene 2016 — Dic 2017",
+      "desc": [
+        "Diseñé pruebas automatizadas para mobile apps y backend services.",
+        "Desarrollé pruebas de carga y performance con Apache JMeter sobre AWS.",
+        "Automaticé pipelines CI/CD con Docker y Jenkins.",
+        "Coordiné el equipo de QA en Argentina."
+      ]
+    },
+    {
+      "role": "Desarrollador Full Stack",
+      "company": "Finnegans",
+      "location": "Buenos Aires, Argentina",
+      "period": "Ene 2013 — Abr 2015",
+      "desc": [
+        "Participé en el desarrollo de soluciones ERP, CRM y software empresarial.",
+        "Implementé servicios REST y backend en Java.",
+        "Optimicé consultas SQL y performance.",
+        "Desarrollé funcionalidades frontend para módulos de negocio."
+      ]
+    }
+  ],
+  "skills": ["React", "Angular", "TypeScript", "Spring Boot", "Node.js", "PostgreSQL", "QA Automation", "CI/CD", "AWS", "Figma", "Tailwind CSS"],
+  "education": [
+    {
+      "degree": "Ingeniero en Informática",
+      "school": "Universidad Nacional del Noroeste de la Prov. de Buenos Aires",
+      "year": "2017"
+    },
+    {
+      "degree": "Analista de Sistemas",
+      "school": "Universidad Nacional del Noroeste de la Provincia de Buenos Aires",
+      "year": "2013"
+    }
+  ],
+  "languages": [
+    { "lang": "Español", "level": "Nativo" },
+    { "lang": "Inglés", "level": "Fluido" }
+  ],
+  "footer": "Todos los derechos reservados."
+}
